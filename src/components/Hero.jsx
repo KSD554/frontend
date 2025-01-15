@@ -6,7 +6,7 @@ const Hero = () => {
       <div className="max-padd-container bg-hero bg-center bg-cover bg-no-repeat h-[655px] w-full rounded-3xl">
         <div className="relative top-32 xs:top-52">
           <span className="medium-18">Bienvenue chez CasaCentral</span>
-          <h3 className="h1 capitalize max-w-[35rem]">
+          <h3 className="h3 capitalize max-w-[35rem]">
             Découvrez des maisons exceptionnelles avec CasaCentral
           </h3>
           <p className="my-10 max-w-[33rem]">
